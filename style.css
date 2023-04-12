@@ -40,4 +40,8 @@ div.container {
     text-align: center;
 }
 
-
+h1 {
+    font-size: larger;
+    text-align: center;
+    padding: 100px;
+}
